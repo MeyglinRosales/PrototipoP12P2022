@@ -61,6 +61,7 @@ int choice;
 	system("cls");
 	//Funcion que imprime Fecha  y Hora
 	control.fechaHora();
+	cout<<"\t\t\t    Meyglin del Rosario Rosales Ochoa   "<<endl;
 	cout<<"\t\t\t    SISTEMA RECURSOS HUMANOS    "<<endl;
 	cout<<"\t\t\t"<<endl;
 	cout<<"\t\t\t 1. Catalogo clientes"<<endl;
